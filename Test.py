@@ -1,2 +1,6 @@
-print "test"
 
+test = uv
+echo test
+
+
+mmm
