@@ -1,7 +1,2 @@
 
-test = uv
-echo test
-
-test
-
-mmm
+print "Hello world"
